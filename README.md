@@ -224,6 +224,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/jakenb
 ### TODO
 
 - DateTime parameters (in addition to milliseconds).
+- Add other api end points for margin orders.
 
 ## License
 
